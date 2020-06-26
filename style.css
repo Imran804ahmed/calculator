@@ -1,0 +1,61 @@
+.main{
+    border: 2px solid rgb(4, 82, 82);
+    width: 166px;
+    margin: 0 auto;  
+    background-color: teal;
+    border-radius: 15px;
+    
+}
+.heading{
+    /* border-bottom: 1px solid black; */
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+}
+.result {
+    background-color:white;
+   margin: 0px 5px 5px 5px;
+    border-radius: 5px;
+    height: 50px;
+    width: 89%;
+    border-style: double;
+    text-align: right;
+    font-size: 30px;
+    
+
+}
+.clearbtn{
+    background-color: blue;
+    color: white;
+    margin-top: 10px;
+    margin-left: 5px;
+    width: 70%;
+    border: 1.5px solid rgb(7, 7, 167);
+    border-radius: 5px;
+}
+.btn{
+    background-color: blue;
+    color: white;
+    margin: 4px;
+    width: 30px;
+    
+    border-radius: 5px;
+    border: 1.5px solid rgb(7, 7, 167);
+}
+.btn1{
+    background-color: red;
+    color: white;
+    margin: 3px;
+    width: 70px;
+    border: 1.5px solid rgb(153, 6, 6);
+    border-radius: 5px;
+}
+.btnsign{
+    background-color:red;
+    color: white;
+    margin: 5px;
+    width: 30px;
+    border-style: none;
+    border-radius: 5px;
+    border: 1.5px solid rgb(153, 6, 6);
+}
